@@ -1,8 +1,5 @@
 # Robust CIFAR-10 Classification with Limited Data
-
-**Course:** Deep Learning for Perception (Fall 2026), FAST-NUCES
-**Assignment:** 2, Section B
-**Name:** Alyan Tariq
+**Name:** M. Alyan Tariq
 **Roll No:** 23F-0719
 
 ## About
